@@ -34,12 +34,3 @@ id = "MyNewID123"
 ```toml
 id = "MyNewID123"
 ```
-
-## webtop容器 lscr.io/linuxserver/webtop:latest自定义ID
-找到docker映射目录`/config`的这个文件<br>
-`.config/rustdesk/RustDesk.toml`<br>
-如果没有就新建，内容如下。 如果文件以存在需要把内容清空只保留id行。<br>
-
-```toml
-id = "MyNewID123"
-```
