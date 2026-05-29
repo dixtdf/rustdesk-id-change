@@ -1,6 +1,8 @@
 # rustdesk-id-change
 
 ## 注意
+
+你可以通过自己修改代码实现自定义ID,但是我不会提供任何教程,我认为那是挑衅官方的行为,开源不易且用且珍惜<br>
 ID如果在hhbs数据库内已存在可能无法注册。rustdesk/hbbs/data/db_v2.sqlite3<br>
 默认服务器不允许修改ID，需要使用自建服务器。<br>
 修改ID前把RustDesk客户端全部关闭。<br>
