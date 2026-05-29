@@ -1,7 +1,7 @@
 # rustdesk-id-change
 
 ## 注意
-
+ID如果在hhbs数据库内已存在可能无法注册。rustdesk/hbbs/data/db_v2.sqlite3<br>
 默认服务器不允许修改ID，需要使用自建服务器。<br>
 修改ID前把RustDesk客户端全部关闭。<br>
 
